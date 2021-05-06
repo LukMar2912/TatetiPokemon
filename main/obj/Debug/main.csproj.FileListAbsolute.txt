@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\Proyectos\C#\proyectos propios\TatetiPokemon\main\bin\Debug\main.exe.config
+C:\Users\Usuario\Desktop\Proyectos\C#\proyectos propios\TatetiPokemon\main\bin\Debug\main.exe
+C:\Users\Usuario\Desktop\Proyectos\C#\proyectos propios\TatetiPokemon\main\bin\Debug\main.pdb
+C:\Users\Usuario\Desktop\Proyectos\C#\proyectos propios\TatetiPokemon\main\obj\Debug\main.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyectos\C#\proyectos propios\TatetiPokemon\main\obj\Debug\main.Form1.resources
+C:\Users\Usuario\Desktop\Proyectos\C#\proyectos propios\TatetiPokemon\main\obj\Debug\main.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Proyectos\C#\proyectos propios\TatetiPokemon\main\obj\Debug\main.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Proyectos\C#\proyectos propios\TatetiPokemon\main\obj\Debug\main.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Proyectos\C#\proyectos propios\TatetiPokemon\main\obj\Debug\main.exe
+C:\Users\Usuario\Desktop\Proyectos\C#\proyectos propios\TatetiPokemon\main\obj\Debug\main.pdb
